@@ -1,0 +1,104 @@
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll.config
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.pdb
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\BookShop.pdb
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe.config
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csprojAssemblyReference.cache
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CopyComplete
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.dll
+C:\Users\Lenovo 100\Desktop\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.pdb
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll.config
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.pdb
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\BookShop.pdb
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe.config
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csprojAssemblyReference.cache
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CopyComplete
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop (2)\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.pdb
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll.config
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.pdb
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.pdb
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe.config
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csprojAssemblyReference.cache
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CopyComplete
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.dll
+C:\Users\nik21\OneDrive\Работен плот\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.pdb
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll.config
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.UnitTests.pdb
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.pdb
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\BookShop.exe.config
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.xml
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csprojAssemblyReference.cache
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.csproj.CopyComplete
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.dll
+C:\Users\nik21\Desktop\IT Kariera Project\BookShop Project\BookShop\BookShop.UnitTests\obj\Debug\BookShop.UnitTests.pdb

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bookstoreModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="8.0" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="books">
+    <Key>
+      <PropertyRef Name="Book" />
+    </Key>
+    <Property Name="Book" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Publisher" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Author" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="BookTypeId" Type="int" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Number" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="booktype">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Type" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="books_booktype">
+    <End Role="booktype" Type="Self.booktype" Multiplicity="1" />
+    <End Role="books" Type="Self.books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="booktype">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="books">
+        <PropertyRef Name="BookTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bookstoreModelStoreContainer">
+    <EntitySet Name="books" EntityType="Self.books" Schema="bookstore" store:Type="Tables" />
+    <EntitySet Name="booktype" EntityType="Self.booktype" Schema="bookstore" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="bookstore" store:Type="Tables" />
+    <AssociationSet Name="books_booktype" Association="Self.books_booktype">
+      <End Role="booktype" EntitySet="booktype" />
+      <End Role="books" EntitySet="books" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
